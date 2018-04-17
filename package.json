@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "addition.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheLadd/Node-Test.git"
+  },
+  "keywords": [
+    "wha"
+  ],
+  "author": "pricklepuss <owenribera@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheLadd/Node-Test/issues"
+  },
+  "homepage": "https://github.com/TheLadd/Node-Test#readme"
+}
